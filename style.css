@@ -1,0 +1,11 @@
+.balance {
+  position: relative;
+  top:auto;
+  margin:auto;
+  padding-top: 10px;
+
+}
+
+.balance img:first-child {
+  padding-top: 200px;
+}
