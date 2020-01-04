@@ -3,7 +3,7 @@
   text-align: center;
 }
 
-.balance img:first-child {
+.balance .googlelogo {
   padding-top: 200px;
 }
 
@@ -30,4 +30,14 @@
   padding-right: 10px;
   max-width: 23px;
   max-height: 23px;
+}
+
+.button {
+  padding-top: 10px;
+}
+
+.buttonstyle {
+  border-style: solid;
+  border-color: #e1e1e1;
+  background-color: #e1e1e1;
 }
